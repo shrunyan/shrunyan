@@ -1,9 +1,3 @@
-
-### Stuart Runyan 
-- Pronouns: He/Him
-- Work: [zesty.io](https://zesty.io)
-
-
 # My Idealogy
 
 The web is the greatest human invention up to this point in time. The ability to access the worlds knowledge and share culture is outstounding. It's a new frontier that has only just started. 
