@@ -12,7 +12,7 @@ I have been a programmer longer than I have been a manager, so far. As such I'm 
 
 # About Me
 
-I am originally from San Diego, California, USA and currently live in Portland, Oregon, USA. As an introvert, social interactions drain me, even if I am having a great time. I need ample self time to recharge. One of the favorite ways to do so is being alone in nature and riding long stretches of road on my motorcycle. 
+I am originally from San Diego, California, USA and currently live in Portland, Oregon, USA. An ambivert who needs self time to recharge. Two of my favorite ways to do so are being alone in nature and riding long stretches of road on my motorcycle. 
 
 <!--
 **shrunyan/shrunyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
